@@ -1,16 +1,13 @@
-## Hi there 👋
+# Da Sun Wukong 404 🔥
 
-<!--
-**azubuikeprosper412-jpg/azubuikeprosper412-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Error 404: King Not Found. He Found You.
 
-Here are some ideas to get you started:
+**Game Developer | lagos, Nigeria**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building fighting games and Wukong worlds.
+
+🎮 Currently forging my first game
+⚔️ Stack: HTML, CSS, JavaScript
+👑 Studio: Da Sun Wukong 404
+
+Let's build!
